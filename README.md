@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## 🖼 Example
 
-![Example Layout](https://via.placeholder.com/800x450.png?text=16:9+Cropped+Image)
+![Example Layout](img/example.png)
 
 ---
 
