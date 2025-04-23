@@ -38,7 +38,10 @@ This Streamlit web application allows users to upload an image and crop it to a 
 
 ## 🛠 How to Use
 
-1. ▶️ **activate the virtual environment** `source .venv/bin/activate`
+1. <svg width="40" height="40" viewBox="0 0 24 24" fill="red" xmlns="http://www.w3.org/2000/svg">
+  <path d="M8 5v14l11-7z"/>
+</svg>
+ **activate the virtual environment** `source .venv/bin/activate`
 2. ▶️ **Run the app** with `streamlit run image_cropper_app.py`
 3. 📤 **Upload your image** using the file uploader
 4. 🧮 **Select an aspect ratio** from the sidebar dropdown
