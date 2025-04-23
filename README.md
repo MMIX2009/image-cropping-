@@ -38,11 +38,12 @@ This Streamlit web application allows users to upload an image and crop it to a 
 
 ## 🛠 How to Use
 
-1. ▶️ **Run the app** with `streamlit run image_cropper_app.py`
-2. 📤 **Upload your image** using the file uploader
-3. 🧮 **Select an aspect ratio** from the sidebar dropdown
-4. 👀 **View the original and cropped image** displayed vertically
-5. 📥 **Click the download button** to save your cropped image
+1. ▶️ **activate the virtual environment** `source .venv/bin/activate`
+2. ▶️ **Run the app** with `streamlit run image_cropper_app.py`
+3. 📤 **Upload your image** using the file uploader
+4. 🧮 **Select an aspect ratio** from the sidebar dropdown
+5. 👀 **View the original and cropped image** displayed vertically
+6. 📥 **Click the download button** to save your cropped image
 
 ---
 
